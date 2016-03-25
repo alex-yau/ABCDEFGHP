@@ -1,3 +1,8 @@
+/* 
+To run this program
+puzzle2(As-Bs=Cs,Cs+Ds=Ps), labeling([up], As), labeling([up], Bs).
+*/
+
 :- use_module(library(clpfd)).
 
 puzzle2([A,B]-[C,D]=[E,F],[E,F]+[G,H]=[P,P,P]) :-
