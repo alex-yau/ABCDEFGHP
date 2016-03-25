@@ -1,6 +1,8 @@
 /* 
 To run this program
 puzzle3(As-Bs=Cs,Cs+Ds=Ps), labeling([up], As), labeling([up], Bs).
+
+Inspired by http://www.swi-prolog.org/man/clpfd.html
 */
 
 :- use_module(library(clpfd)).
