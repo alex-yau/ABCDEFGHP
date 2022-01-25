@@ -5,10 +5,10 @@ Puzzle, find all digits represented by A,B,C,D,E,F,G,H,P which are all distinct 
 ```
   AB
  -CD
-----
+====
   EF
   GH
-----
+====
  PPP
 ```
 
