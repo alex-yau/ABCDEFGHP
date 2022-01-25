@@ -1,7 +1,8 @@
 # ABCDEFGHP
 Solve maths question
 
-puzzle, find all digits represented by A,B,C,D,E,F,G,H,P which are all distinct
+Puzzle, find all digits represented by A,B,C,D,E,F,G,H,P which are all distinct and satisfy the following calculations
+```
   AB
  -CD
 ----
@@ -9,6 +10,7 @@ puzzle, find all digits represented by A,B,C,D,E,F,G,H,P which are all distinct
   GH
 ----
  PPP
+```
 
 Prolog based solutions require SWI-Prolog to run.
 
